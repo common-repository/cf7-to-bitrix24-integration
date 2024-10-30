@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .card_bitrix {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e5e5e5;
+    border-left: 4px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    margin-top: 20px;
+    max-width: 820px;
+    min-width: 255px;
+    padding: 0.7em 2em 1em;
+    position: relative;
+}

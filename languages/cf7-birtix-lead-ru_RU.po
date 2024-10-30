@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-12-08 03:11+0400\n"
+"PO-Revision-Date: 2020-02-03 11:03+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cf7-birtix-lead.php:100 cf7-birtix-lead.php:101
+msgid "Bitrix24 Integration"
+msgstr "Интеграция Bitrix24"
+
+#: cf7-birtix-lead.php:189
+msgid "The host on which your Bitrix24 is located (yourdomain.bitrix24.ru)"
+msgstr "Хост, на котором расположен ваш Битрикс24 (yourdomain.bitrix24.ru)"
+
+#: cf7-birtix-lead.php:207
+msgid "REST api path"
+msgstr "REST API путь"
+
+#: cf7-birtix-lead.php:221
+msgid "Required field"
+msgstr "Обязательные поля"
+
+#: cf7-birtix-lead.php:224
+msgid "Login"
+msgstr "Логин"
+
+#: cf7-birtix-lead.php:227
+msgid "Password"
+msgstr "Пароль"
+
+#: cf7-birtix-lead.php:234 cf7-birtix-lead.php:279
+msgid "Save Changes"
+msgstr "Сохранить"
+
+#: cf7-birtix-lead.php:242
+msgid "Key Licence"
+msgstr "Лицензионный ключ"
+
+#: cf7-birtix-lead.php:263 cf7-birtix-lead.php:267
+msgid "Your license"
+msgstr "Ваша лицензия"
+
+#: cf7-birtix-lead.php:263
+msgid "active"
+msgstr "активна"
+
+#: cf7-birtix-lead.php:263
+msgid "up to"
+msgstr "до"
+
+#: cf7-birtix-lead.php:267
+msgid "not active"
+msgstr "нет активен"
+
+#: cf7-birtix-lead.php:293
+msgid "Bitrix24 leads"
+msgstr "Bitrix24 Лиды"
+
+#: cf7-birtix-lead.php:329
+msgid "TITLE_FILED"
+msgstr "Выберете значение"
+
+#: cf7-birtix-lead.php:330
+msgid "BIRTHDATE_FILED"
+msgstr "ДАТА РОЖДЕНИЯ"
+
+#: cf7-birtix-lead.php:331
+msgid "NAME_FILED"
+msgstr "ИМЯ"
+
+#: cf7-birtix-lead.php:332
+msgid "LAST NAME_FILED"
+msgstr "ФАМИЛИЯ"
+
+#: cf7-birtix-lead.php:333
+msgid "SECOND NAME_FILED"
+msgstr "ОТЧЕСТВО"
+
+#: cf7-birtix-lead.php:334
+msgid "COMPANY TITLE_FILED"
+msgstr "НАЗВАНИЕ КОМПАНИИ"
+
+#: cf7-birtix-lead.php:335
+msgid "POST_FILED"
+msgstr "ДОЛЖНОСТЬ"
+
+#: cf7-birtix-lead.php:336
+msgid "ADDRESS_CITY_FILED"
+msgstr "ГОРОД"
+
+#: cf7-birtix-lead.php:337
+msgid "ADDRESS_COUNTRY_FILED"
+msgstr "СТРАНА"
+
+#: cf7-birtix-lead.php:338
+msgid "ADDRESS_FILED"
+msgstr "АДРЕС"
+
+#: cf7-birtix-lead.php:339
+msgid "COMMENTS_FILED"
+msgstr "КОММЕНТАРИЙ"
+
+#: cf7-birtix-lead.php:340
+msgid "SOURCE_DESCRIPTION_FILED"
+msgstr "ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ"
+
+#: cf7-birtix-lead.php:341
+msgid "OPPORTINUTY_FILED"
+msgstr "СУММА СДЕЛКИ"
+
+#: cf7-birtix-lead.php:342
+msgid "CURRENCY_ID_FILED"
+msgstr "ВАЛЮТА"
+
+#: cf7-birtix-lead.php:343
+msgid "SOURCE_ID_FILED"
+msgstr "ИСТОЧНИК"
+
+#: cf7-birtix-lead.php:344
+msgid "STATUS_ID_FILED"
+msgstr "СТАТУС"
+
+#: cf7-birtix-lead.php:345
+msgid "PHONE_WORK_FILED"
+msgstr "РАБОЧИЙ ТЕЛЕФОН"
+
+#: cf7-birtix-lead.php:346
+msgid "PHONE_MOBILE_FILED"
+msgstr "МОБИЛЬНЫЙ ТЕЛЕФОН"
+
+#: cf7-birtix-lead.php:347
+msgid "PHONE_FAX_FILED"
+msgstr "ФАКС"
+
+#: cf7-birtix-lead.php:348
+msgid "PHONE_PAGER_FILED"
+msgstr "НОМЕР ПЕЙДЖЕРА"
+
+#: cf7-birtix-lead.php:349
+msgid "PHONE_OTHER_FILED"
+msgstr "ДРУГОЙ ТЕЛЕФОН"
+
+#: cf7-birtix-lead.php:350
+msgid "WEB_WORK_FILED"
+msgstr "КОРПОРАТИВНЫЙ САЙТ"
+
+#: cf7-birtix-lead.php:351
+msgid "WEB_HOME_FILED"
+msgstr "ЛИЧНАЯ СТРАНИЦА"
+
+#: cf7-birtix-lead.php:352
+msgid "WEB_FACEBOOK_FILED"
+msgstr "СТРАНИЦА FACEBOOK"
+
+#: cf7-birtix-lead.php:353
+msgid "WEB_LIVEJOURNAL_FILED"
+msgstr "СТРАНИЦА LIVEJOURNA"
+
+#: cf7-birtix-lead.php:354
+msgid "WEB_TWITTER_FILED"
+msgstr "СТРАНИЦА TWITTER"
+
+#: cf7-birtix-lead.php:355
+msgid "EMAIL_WORK_FILED"
+msgstr "РАБОЧИЙ E-MAIL"
+
+#: cf7-birtix-lead.php:356
+msgid "EMAIL_HOME_FILED"
+msgstr "ЛИЧНЫЙ E-MAIL"
+
+#: cf7-birtix-lead.php:357
+msgid "EMAIL_OTHER_FILED"
+msgstr "ДРУГОЙ E-MAIL"
+
+#: cf7-birtix-lead.php:358
+msgid "IM_SKYPE_FILED"
+msgstr "SKYPE"
+
+#: cf7-birtix-lead.php:359
+msgid "IM_ICQ_FILED"
+msgstr "ICQ"
+
+#: cf7-birtix-lead.php:360
+msgid "IM_MSN_FILED"
+msgstr "MSN"
+
+#: cf7-birtix-lead.php:361
+msgid "IM_JABBER_FILED"
+msgstr "JABBER"
+
+#: cf7-birtix-lead.php:362
+msgid "IM_OTHER_FILED"
+msgstr "ДРУГОЙ КОНТАКТ"
+
+#: cf7-birtix-lead.php:409
+msgid "Bitrix24 Settings"
+msgstr "Bitrix24 Настройки"

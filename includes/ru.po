@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-12-06 17:02+0400\n"
+"PO-Revision-Date: 2019-12-06 17:03+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cf7-birtix-lead.php:100 cf7-birtix-lead.php:101
+msgid "Bitrix24 Integration"
+msgstr ""
+
+#: cf7-birtix-lead.php:189
+msgid "The host on which your Bitrix24 is located (yourdomain.bitrix24.ru)"
+msgstr ""
+
+#: cf7-birtix-lead.php:207
+msgid "REST api path"
+msgstr ""
+
+#: cf7-birtix-lead.php:221
+msgid "Required field"
+msgstr ""
+
+#: cf7-birtix-lead.php:224
+msgid "Login"
+msgstr ""
+
+#: cf7-birtix-lead.php:227
+msgid "Password"
+msgstr ""
+
+#: cf7-birtix-lead.php:234 cf7-birtix-lead.php:279
+msgid "Save Changes"
+msgstr ""
+
+#: cf7-birtix-lead.php:242
+msgid "Key Licence"
+msgstr "Ключ лицензии"
+
+#: cf7-birtix-lead.php:263 cf7-birtix-lead.php:267
+msgid "Your license"
+msgstr ""
+
+#: cf7-birtix-lead.php:263
+msgid "active"
+msgstr ""
+
+#: cf7-birtix-lead.php:263
+msgid "up to"
+msgstr ""
+
+#: cf7-birtix-lead.php:267
+msgid "not active"
+msgstr ""
+
+#: cf7-birtix-lead.php:293
+msgid "Bitrix24 leads"
+msgstr "Битрикс лид"
+
+#: cf7-birtix-lead.php:329
+msgid "TITLE"
+msgstr ""
+
+#: cf7-birtix-lead.php:330
+msgid "BIRTHDATE"
+msgstr ""
+
+#: cf7-birtix-lead.php:331
+msgid "NAME"
+msgstr ""
+
+#: cf7-birtix-lead.php:332
+msgid "LAST NAME"
+msgstr ""
+
+#: cf7-birtix-lead.php:333
+msgid "SECOND NAME"
+msgstr ""
+
+#: cf7-birtix-lead.php:334
+msgid "COMPANY TITLE"
+msgstr ""
+
+#: cf7-birtix-lead.php:335
+msgid "POST"
+msgstr ""
+
+#: cf7-birtix-lead.php:336
+msgid "ADDRESS_CITY"
+msgstr ""
+
+#: cf7-birtix-lead.php:337
+msgid "ADDRESS_COUNTRY"
+msgstr "Страна адресата"
+
+#: cf7-birtix-lead.php:338
+msgid "ADDRESS"
+msgstr "адрес"
+
+#: cf7-birtix-lead.php:339
+msgid "COMMENTS"
+msgstr ""
+
+#: cf7-birtix-lead.php:340
+msgid "SOURCE_DESCRIPTION"
+msgstr ""
+
+#: cf7-birtix-lead.php:341
+msgid "OPPORTINUTY"
+msgstr ""
+
+#: cf7-birtix-lead.php:342
+msgid "CURRENCY_ID"
+msgstr ""
+
+#: cf7-birtix-lead.php:343
+msgid "SOURCE_ID"
+msgstr ""
+
+#: cf7-birtix-lead.php:344
+msgid "STATUS_ID"
+msgstr ""
+
+#: cf7-birtix-lead.php:345
+msgid "PHONE_WORK"
+msgstr ""
+
+#: cf7-birtix-lead.php:346
+msgid "PHONE_MOBILE"
+msgstr ""
+
+#: cf7-birtix-lead.php:347
+msgid "PHONE_FAX"
+msgstr "факс"
+
+#: cf7-birtix-lead.php:348
+msgid "PHONE_PAGER"
+msgstr ""
+
+#: cf7-birtix-lead.php:349
+msgid "PHONE_OTHER"
+msgstr ""
+
+#: cf7-birtix-lead.php:350
+msgid "WEB_WORK"
+msgstr ""
+
+#: cf7-birtix-lead.php:351
+msgid "WEB_HOME"
+msgstr ""
+
+#: cf7-birtix-lead.php:352
+msgid "WEB_FACEBOOK"
+msgstr ""
+
+#: cf7-birtix-lead.php:353
+msgid "WEB_LIVEJOURNAL"
+msgstr ""
+
+#: cf7-birtix-lead.php:354
+msgid "WEB_TWITTER"
+msgstr ""
+
+#: cf7-birtix-lead.php:355
+msgid "EMAIL_WORK"
+msgstr ""
+
+#: cf7-birtix-lead.php:356
+msgid "EMAIL_HOME"
+msgstr ""
+
+#: cf7-birtix-lead.php:357
+msgid "EMAIL_OTHER"
+msgstr ""
+
+#: cf7-birtix-lead.php:358
+msgid "IM_SKYPE"
+msgstr ""
+
+#: cf7-birtix-lead.php:359
+msgid "IM_ICQ"
+msgstr ""
+
+#: cf7-birtix-lead.php:360
+msgid "IM_MSN"
+msgstr ""
+
+#: cf7-birtix-lead.php:361
+msgid "IM_JABBER"
+msgstr ""
+
+#: cf7-birtix-lead.php:362
+msgid "IM_OTHER"
+msgstr ""
+
+#: cf7-birtix-lead.php:409
+msgid "Bitrix24 Settings"
+msgstr ""
